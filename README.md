@@ -5,7 +5,7 @@
 ██║██║ ╚═╝ ██║██║     ╚██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   
 ╚═╝╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
                                                                     
-Compatible with GameBuild : 2189, 2372, 2545, 2612, 2628, 2699, 2802, 2944
+Compatible with GameBuild : 1604, 2189, 2372, 2545, 2612, 2628, 2699, 2802, 2944
 Plugins will be updated when a new gamebuild is released.
 If you have a problem with the plugins please contact me on discord : mrzedo
 
