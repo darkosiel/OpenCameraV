@@ -19,8 +19,6 @@ If you have a problem with the plugins please contact me on discord : mrzedo
 
 Note: The lm-config.xml file must be placed in your /fivem/fivem application data/ folder (NOT in the plugins folder)
 
-             ----------------------------
-
 Menu Controls:
 
     F1 opens menu
